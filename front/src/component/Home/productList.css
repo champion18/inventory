@@ -1,0 +1,30 @@
+.products {
+  margin: 15vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.rowsHeading {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1vh;
+  background-color: rgb(96, 124, 173);
+  border-radius: 100px;
+  padding: 1vh 4vh;
+}
+
+.Name {
+  width: 45vh;
+}
+
+.Category {
+  width: 45vh;
+}
+
+.Stock {
+  width: 25vh;
+}
+
+.Price {
+  width: 30vh;
+}

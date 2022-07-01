@@ -1,0 +1,28 @@
+.rows {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1vh;
+  background-color: rgb(161, 184, 221);
+  border-radius: 100px;
+  padding: 1vh 4vh;
+}
+
+.wide {
+  width: 30%;
+}
+
+.narrow {
+  width: 15%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  padding: 0 1vh;
+  border-radius: 100px;
+  border: none;
+  width: auto;
+}
